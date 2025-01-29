@@ -11,7 +11,7 @@ I'm a Java enthusiastic, student from USCO.<br>By the moment I'm studying Spring
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=daisy-bait&theme=rose&hide_border=false&include_all_commits=false&count_private=false"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daisy-bait&theme=rose&hide_border=false"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadanarpa&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisy-bait&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
